@@ -54,7 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/zAPFRmU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/DUiyQdt.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/OvIitog.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
