@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/a3XQ6FM.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
