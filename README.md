@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>Step 2: Install / Enable Internet Information Services (IIS) in Windows</h3>
 
 - At the bottom left, search control panel.
-- Select uninstall a program.
+- Select Programs.
 - select Turn Windows features on or off
 - Make sure Internet Information Services is checked, and select OK.
 
