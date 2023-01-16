@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-<h3>Step 1: Connect to your Virtual Machine with Remote Desktop</h3>
+<h3>Step 1: Create an Azure Virtual Machine (Windows 10), Connect to your VM with Remote Desktop</h3>
 
 
 <h3>Step 2: Install / Enable Internet Information Services (IIS) in Windows</h3>
