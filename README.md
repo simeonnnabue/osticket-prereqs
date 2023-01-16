@@ -74,19 +74,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
      
 
-<h3>Step 5: Reload IIS (Open IIS, Stop and Start the server)
+<h3>Step 5: Reload IIS (Open IIS, Restart the server)
 </h3>
 
 - Search for Internet Information Services (IIS) and select open
 	- Select restart on right hand side 
-- On the left, select Virtualmachine -> Sites -> Default Website -> osTicket
+- On the left, select vm-osticket -> Sites -> Default Website -> osTicket
 - On the right, click “Browse *:80”
 	- This should open osTicket in your web browser
-- Before continuing, head back to and open IIS.
+- Before continuing, reopen IIS.
 
 
 <p align="center">
-<img src="https://i.imgur.com/OpBkwwj.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/XNVSNia.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/B8HALYr.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/DUGnzNk.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 6:  Enable Extensions in IIS: Note that some extensions are not enabled
