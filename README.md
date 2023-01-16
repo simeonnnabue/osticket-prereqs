@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - At the bottom left, search control panel.
 - Select Programs.
-- select Turn Windows features on or off
+- select Turn Windows features on or off (Left column)
 - Make sure Internet Information Services is checked, and select OK.
 
 
