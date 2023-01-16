@@ -103,7 +103,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
      
  <p align="center">
-<img src="https://i.imgur.com/GQfPOU8.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/iCK6vst.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/JYliJVw.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 <h3>Step 7:   Refresh the osTicket site in your browser, observe the changes
