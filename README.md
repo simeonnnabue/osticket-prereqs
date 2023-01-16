@@ -61,7 +61,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>Step 4: Install osTicket v1.15.8</h3>
      
-- Download osTicket (download from within lab files: [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6))
+- Go to Downloads in File Manager, find osTicket v1.15.8 
 - Right click on the file and select extract all
 	- Open the new osTicket folder
 		- Copy the “upload” folder INTO c:\inetpub\wwwroot
