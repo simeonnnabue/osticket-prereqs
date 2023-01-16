@@ -51,10 +51,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - PHP Version 7.3.8
   - PHP Manager 1.5.0 for IIS 10
   - VC_redist.x86.exe
+  - osTicket v1.15.8
 
 
 <p align="center">
-<img src="https://i.imgur.com/OvIitog.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/oEyFJjg.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
