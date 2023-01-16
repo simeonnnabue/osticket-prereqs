@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>Step 2: Install / Enable Internet Information Services (IIS) in Windows</h3>
 
-- At the bottom left, search control panel.
+- press windows key, search "control panel".
 - Select Programs.
 - select Turn Windows features on or off (Left column)
 - Make sure Internet Information Services is checked, and select OK.
@@ -69,7 +69,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/BpL8IJE.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/xSJD7yk.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/gBpABXh.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/i4ZVn9i.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
  
      
@@ -106,14 +106,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/JYliJVw.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
-<h3>Step 7:   Refresh the osTicket site in your browser, observe the changes
+<h3>Step 7:   Refresh the osTicket site in your browser
 </h3>
 
 - Intl Extension should now have a green check mark next to it
 
 
 <p align="center">
-<img src="https://i.imgur.com/ByfN2Fd.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/swQi37o.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
@@ -125,7 +125,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/DDTR8CD.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/9DQCZYm.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 <h3>Step 9: Assign Permissions: ost-config.php</h3>
 
@@ -134,13 +134,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select Disable inheritance -> Remove all inherited permissions from this object 
 
 <p align="center">
-<img src="https://i.imgur.com/pcFvK9d.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/PSwl8et.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Afterwards, Select add -> Select a principal  -> type in "everyone" -> check names-> Select OK
 	- Allow everyone full control (check all boxes) -> Select apply -> OK
 
 <p align="center">
-<img src="https://i.imgur.com/vUlpzTb.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WZrk1F7.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/MWK5eiL.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CJn8xDU.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
   
