@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/B8HALYr.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/DUGnzNk.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
-<h3>Step 6:  Enable Extensions in IIS: Note that some extensions are not enabled
+<h3>Step 6:  Enable Extensions in IIS:
 </h3>
 
 - Go back to IIS, Sites -> Default Web Site -> osTicket
