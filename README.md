@@ -63,9 +63,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
      
 - Go to Downloads in File Manager, find osTicket v1.15.8 
 - Right click on the file and select extract all
-	- Open the new osTicket folder
-		- Copy the “upload” folder INTO c:\inetpub\wwwroot
-		- Rename “upload” to “osTicket”
+- Open the new osTicket folder
+- Copy the “upload” folder INTO c:\inetpub\wwwroot
+- Rename “upload” to “osTicket”
 
 
 <p align="center">
@@ -77,11 +77,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>Step 5: Reload IIS (Open IIS, Restart the server)
 </h3>
 
-- Search for Internet Information Services (IIS) and select open
-	- Select restart on right hand side 
+- Open IIS
+- Select restart on right hand side 
 - On the left, select vm-osticket -> Sites -> Default Website -> osTicket
 - On the right, click “Browse *:80”
-	- This should open osTicket in your web browser
+- This should open osTicket in your web browser
 - Before continuing, reopen IIS.
 
 
@@ -137,7 +137,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PSwl8et.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Afterwards, Select add -> Select a principal  -> type in "everyone" -> check names-> Select OK
-	- Allow everyone full control (check all boxes) -> Select apply -> OK
+- Allow everyone full control (check all boxes) -> Select apply -> OK
 
 <p align="center">
 <img src="https://i.imgur.com/MWK5eiL.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CJn8xDU.png" height="80%" width="80%" alt="Azure Free Services"/>
@@ -147,13 +147,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>Step 10: Continue Setting up osTicket in the browser</h3>
 
 - Go back to browser and click continue
-  - Name: Helpdesk
-  - Email: whichever email you want
-  - First Name: your first name
-  - Last Name: your last name
-  - Email Address: whichever email you want (needs to be different from the Default Email)
-  - Username: user_admin 
-  - Password: Password1 
+  - Creat username/password, and name your helpdesk
   
 <p align="center">
 <img src="https://i.imgur.com/1GfpPLs.png" height="80%" width="80%" alt="Azure Free Account"/>
