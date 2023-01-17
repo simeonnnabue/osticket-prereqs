@@ -154,7 +154,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>Step 11: Download and Install HeidiSQL</h3>
 
-- Head to osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- open up your Lab Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 - Download and install HeidiSQL
 - Open HeidiSQL -> Select new at the bottom left corner 
   - User: root
