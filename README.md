@@ -155,10 +155,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>Step 11: Download and Install HeidiSQL</h3>
 
 - Head to osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-	- Download and install HeidiSQL
+- Download and install HeidiSQL
 - Open HeidiSQL -> Select new at the bottom left corner 
-   - User: root
-   - Password : Password
+  - User: root
+  - Password : Password
 - Select Open
 - On the left side, right click “Unamed” -> “Create New” -> “Database
 - Name it “osTicket” and select OK
@@ -184,25 +184,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p align="center">
 <img src="https://i.imgur.com/F52ypHn.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Tips!</h3>
 
-- To create tickets as a user: http://localhost/osTicket/
-- To log in as an Admin or help desk professional: http://localhost/osTicket/scp
 
 <h3>Step 13: Cleanup.</h3>
 
+- Make sure you dont leave your environments running in Azure/dont waste your credits
 - Go to C: -> inetpub->wwwroot->osTicket->setup
-    - Delete the contents in the setup folder
-    - Afterwards, delete the setup folder
-- Go to C:-->Inetpub-->wwwroot-->osTicket-->include
-    - Right click on ost-config.php 
-    - Select securities -> Advanced -> Click on everyone -> edit to change permissions
-	- Allow everyone to only have read and execute, then select OK -> Apply -> OK
+- Delete the setup folder
+- delete your resource groups and close down all programs											    
+											  
+											    
+											    
 	
- <p align="center">
-<img src="https://i.imgur.com/wucT3UN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>	
 
-
-Click [here](https://github.com/miquelmanaois/osTicket-post-installing) to move on to part 2 of this tutorial!
 
