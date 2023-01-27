@@ -74,7 +74,7 @@
 - Download and install the following from within the lab files: [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
   - PHP Version 7.3.8
   - PHP Manager 1.5.0 for IIS 10
-  - Microsoft Visual C++ 2009 Redistributable Package
+  - VC_redist.x86.exe
 
 
 <p align="center">
