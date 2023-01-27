@@ -86,9 +86,9 @@
      
 - Download osTicket (download from within lab files: [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6))
 - Right-click on the file and select Extract All
-	- Open the new osTicket folder
-		- Copy the Upload folder into C:\inetpub\wwwroot
-		- Rename “Upload” to “osTicket”
+- Open the new osTicket folder
+- Copy the Upload folder into C:\inetpub\wwwroot
+- Rename “Upload” to “osTicket”
 
 
 <p align="center">
@@ -101,12 +101,12 @@
 </h3>
 
 - Search for Internet Information Services (IIS) and select Open
-	- Select Restart on the right-hand side 
+- Select Restart on the right-hand side 
 - On the left side of the screen, select Virtualmachine > Sites > Default Website > osTicket
 - On the right side of the screen, click “Browse *:80”
-	- This should open osTicket in your web browser
+  - This should open osTicket in your web browser
 - Before continuing, head back to IIS
-- Open IIS
+
 
 
 <p align="center">
@@ -133,8 +133,8 @@
 <h3>Step 7: Refresh the osTicket Site in Your Browser
 </h3>
 
-- Refresh the osTicket site adn observe the change
-	- Intl Extension should now have a green checkmark next to it
+
+- Intl Extension should now have a green checkmark next to it
 
 
 <p align="center">
@@ -145,9 +145,9 @@
 <h3>Step 8: Rename</h3>
  
 - Open Windows Explorer and select C: > inetpub > wwwroot > osTicket > include
-	- Rename the following file:
-		- From: ost-SAMPLEconfig.php
-		- To: ost-config.php
+- Rename the following file:
+  - From: ost-SAMPLEconfig.php
+  - To: ost-config.php
 
 
 <p align="center">
@@ -163,7 +163,7 @@
 <img src="https://i.imgur.com/pcFvK9d.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Afterwards, select Add > select Principal > type in "everyone" > select Check Names > select OK
-	- Allow everyone full control (check all boxes) > Select apply > OK
+- Allow everyone full control (check all boxes) > Select apply > OK
 
 <p align="center">
 <img src="https://i.imgur.com/vUlpzTb.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WZrk1F7.png" height="80%" width="80%" alt="Azure Free Services"/>
