@@ -15,7 +15,7 @@
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites</h2>
 
 <ul>
 <li>Microsoft Azure</li>
@@ -32,9 +32,9 @@
 <h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
 
 - At the bottom left, search for Control Panel
-- Underneath Programs, select Uninstall a Program
+- Select Programs
 - On the left side of the screen, select Turn Windows Features On or Off
-- Select Internet Information Services (IIS), and select OK
+- Select IIS, and press OK
 
 
 <p align="center">
