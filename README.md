@@ -1,14 +1,13 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/D2G7XoE.jpg" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source helpdesk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -29,7 +28,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <h3>Step 1: Connect to Your Virtual Machine with Remote Desktop</h3>
 
-- If you need help connecting to your virtual machine, please see my tutorial [here](https://github.com/roslyndwilliams/virtual-machine)
 
 <h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
 
