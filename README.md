@@ -46,9 +46,9 @@
 </h3>
 
 - osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-- Download Web Platform Installer > select Download Anyway > at the top right, select Open File
-- Follow the prompt to install Web Platform Installer
-- Open the Web Platform Installer
+- Download Web Platform Installer
+- Follow the prompt for installation
+- Open Web Platform Installer
 
 <p align="center">
 <img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
@@ -57,7 +57,7 @@
 - Once Web Platform Installer is open, go to the top right of the screen and search for MySQL 5.5
 - Go to MySQL Windows 5.5 and click Add
 - Go to the top right again and search for PHP
-	- Adjust the list to Sort by "name"
+- Adjust the list to Sort by "name"
 - Add all simple versions of x86 PHP up until 7.3
 - Select Install at the bottom of the screen and it will tell you to create a username and password to complete the installation
 
@@ -66,11 +66,11 @@
 </p>
 
 
-  - Username: root
-  - Password: Password1
+- Username: root
+- Password: Password1
 - Follow the prompt to complete the installation
 - You might get a message stating that "some products have failed to install"
-	- Ignore that message and select Finish
+- Ignore that message and select Finish 
 - Download and install the following from within the lab files: [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
   - PHP Version 7.3.8
   - PHP Manager 1.5.0 for IIS 10
