@@ -221,15 +221,12 @@
 - To create tickets as a user: http://localhost/osTicket/
 - To log in as an Admin or helpdesk professional: http://localhost/osTicket/scp
 
-<h3>Step 13: Post-Intallation Cleanup</h3>
+<h3>Step 13: Cleanup</h3>
 
-- Go to C: > inetpub > wwwroot > osTicket > Setup
-    - Delete the contents in the Setup folder
-    - Afterwards, delete the Setup folder
-- Go to C: > Inetpub > wwwroot > osTicket > Include
-    - Right-click on ost-config.php 
-    - Select Securities > Advanced > Click on "everyone" > edit to change permissions
-	- Allow everyone to only have "Read and execute" permission, then select OK > Apply > OK
+- Make sure you dont leave your environments running in Azure/dont waste your credits
+- Go to C: -> inetpub->wwwroot->osTicket->setup
+- Delete the setup folder
+- delete your resource groups and close down all programs
 	
  <p align="center">
 <img src="https://i.imgur.com/wucT3UN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
