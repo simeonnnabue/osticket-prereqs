@@ -211,15 +211,11 @@
 <img src="https://i.imgur.com/Npqj9Us.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
-🎉Congratulations! You have sucessfully installed osTicket adn all of its pre-requisite files!🎉
+🎉Congratulations! You have sucessfully installed osTicket!🎉
 
 <p align="center">
 <img src="https://i.imgur.com/F52ypHn.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Tips!</h3>
-
-- To create tickets as a user: http://localhost/osTicket/
-- To log in as an Admin or helpdesk professional: http://localhost/osTicket/scp
 
 <h3>Step 13: Cleanup</h3>
 
@@ -228,9 +224,3 @@
 - Delete the setup folder
 - delete your resource groups and close down all programs
 	
- <p align="center">
-<img src="https://i.imgur.com/wucT3UN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>	
-
-
-Click [here](https://github.com/roslyndwilliams/post-install-config) to move on to part 2 of this tutorial!
